@@ -158,6 +158,9 @@
               "browserTarget": "photos-app:build:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
